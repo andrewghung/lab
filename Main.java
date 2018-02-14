@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String args[]) {
-        //GITHUB COMMENT GITHUB COMMENT GITHUB COMMENT GITHUB COMMENT GITHUB COMMENT GITHUB COMMENT GITHUB COMMENT
+        // THE RIGHT CHANGE THE RIGHT CHANGE THE RIGHT CHANGE
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a hexadecimal number: ");
         String input = scanner.next();
